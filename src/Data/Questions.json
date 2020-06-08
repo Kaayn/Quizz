@@ -1,0 +1,27 @@
+[
+    {
+        "type": "multiple",
+        "question": "Comment s'appelle Le O ?",
+        "correctAnswer": "Léo",
+        "incorrectAnswers": [
+            "The Goat",
+            "Franck",
+            "Léa"
+        ],
+        "Answers": [
+            "The Goat",
+            "Franck",
+            "Léa",
+            "Léo"
+        ]
+
+    },
+    {
+        "type": "trueFalse",
+        "question": "Rabire à perdu du poids pendant le confinement",
+        "correctAnswer": "true",
+        "incorrectAnswers": [
+            "false"
+        ]
+    }
+]
